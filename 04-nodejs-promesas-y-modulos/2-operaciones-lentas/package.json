@@ -1,0 +1,10 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "módulos externos con npm",
+  "author": "jjtg",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.2.0"
+  }
+}
